@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elena
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Environmental Management at USF, Master Program
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Environmental Management at USF
 - 💞️ I’m looking to collaborate on GIS and research projects
 - 📫 How to reach me egalkina@dons.usfca.edu
 
